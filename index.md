@@ -13,7 +13,7 @@ This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-fal
 
 * **When:** Lectures Tuesdays and Thursdays from 2:00PM to 3:30PM. See below for discussions, labs, and office hours.
 * **Where:** Remote instruction. See Piazza posts for corresponding Zoom links.
-* **What:** See the [lecture schedule](syllabus)
+* **What:** See the lecture schedule
 * **News:** We will post updates about the class on Piazza.
 
 **If you are requesting an extension for a HW or lab assignment (due to either DSP accommodations or other extenuating circumstances), please email any of the GSIs prior to the original deadline date.** Please avoid emailing the professors.
@@ -21,10 +21,6 @@ This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-fal
 ## Lab, Discussion, and Office Hours Schedules
 
 See Piazza posts for corresponding Zoom links.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_i6vcnkqpt1pl5rfp8dsqle1kus%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<!-- <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_j925o99uns4c0dmr73rief7274%40group.calendar.google.com&amp;src=berkeley.edu_9orffahki30fjqmfpuulengrk0@group.calendar.google.com&amp;color=%23BE6D00&amp;ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 For official holidays see the [academic calendar](https://registrar.berkeley.edu/calendar).
 
