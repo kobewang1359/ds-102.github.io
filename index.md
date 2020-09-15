@@ -7,25 +7,15 @@ title: "Data, Inference, and Decisions"
 
 This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-fall-stat-c102-001-lec-001).
+This class is listed as STAT 102.
 
-## Important Information: 
+# Offerings
 
-* **When:** Lectures Tuesdays and Thursdays from 2:00PM to 3:30PM. See below for discussions, labs, and office hours.
-* **Where:** Remote instruction. See Piazza posts for corresponding Zoom links.
-* **What:** See the lecture schedule
-* **News:** We will post updates about the class on Piazza.
+- [Fall 2020](https://ds-102.github.io/fa20/) (Michael Jordan, Jacob Steinhardt)
+- [Spring 2020](https://www.data102.org/) (Jacob Steinhardt, Moritz Hardt)
+- [Fall 2019](https://ds-102.github.io/fa19/) (Michael Jordan, Fernando Perez)
 
-**If you are requesting an extension for a HW or lab assignment (due to either DSP accommodations or other extenuating circumstances), please email any of the GSIs prior to the original deadline date.** Please avoid emailing the professors.
-
-## Lab, Discussion, and Office Hours Schedules
-
-See Piazza posts for corresponding Zoom links.
-
-For official holidays see the [academic calendar](https://registrar.berkeley.edu/calendar).
-
-
-## Prerequisites
+# Prerequisites
 
 While we are working to make this class widely accessible we currently require the following (or equivalent) prerequisites :
 
@@ -36,17 +26,3 @@ While we are working to make this class widely accessible we currently require t
 
 1. **Math:** *Linear Algebra & Differential Equations* [**Math54**](https://math.berkeley.edu/~nikhil/courses/54.f18/), or *Linear Algebra* [**MATH110**](https://math.berkeley.edu/~mcivor/math110su13/), or both *Designing Information Devices and Systems I* [**EE16A**](http://inst.eecs.berkeley.edu/~ee16a/sp19/) and *Designing Information Devices and Systems II* [**EE16B**](https://inst.eecs.berkeley.edu/~ee16b/), or *Linear Algebra for Data Science* [**Stat89a**](https://www.stat.berkeley.edu/~mmahoney/s18-lads/), or *Introduction to Mathematical Physics* [**PHYSICS89**](https://imgur.com/a/TKzcK1Z). We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.
 
-
-
-## Main Instructors
-
-See Piazza posts for Zoom OH links.
-
-{% include instructor_entries.html %}
-
-
-## TAs
-
-See Piazza posts for corresponding Zoom links.
-
-{% include staff_entries.html %}
