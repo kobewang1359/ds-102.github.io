@@ -12,7 +12,7 @@ This class is listed as STAT 102.
 # Offerings
 
 - [Fall 2020](https://ds-102.github.io/fa20/) (Michael Jordan, Jacob Steinhardt)
-- [Spring 2020](https://www.data102.org/) (Jacob Steinhardt, Moritz Hardt)
+- [Spring 2020](https://ds-102.github.io/sp20/) (Jacob Steinhardt, Moritz Hardt)
 - [Fall 2019](https://ds-102.github.io/fa19/) (Michael Jordan, Fernando Perez)
 
 # Prerequisites
